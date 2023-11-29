@@ -1,3 +1,13 @@
+Coverage report: 99%Show/hide keyboard shortcuts
+filter...
+coverage.py v6.5.0, created at 2023-11-29 15:48 +0300
+
+Module	statements	missing	excluded	coverage
+calcul.py	43	1	0	98%
+tests.py	47	0	0	100%
+Total	90	1	0	99%
+coverage.py v6.5.0, created at 2023-11-29 15:48 +0300
+
 План блочных тестов:
 
 1. Тестирование класса MathOperation
