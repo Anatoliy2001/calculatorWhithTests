@@ -1,4 +1,5 @@
-[![CI](https://github.com/Anatoliy2001/(https://github.com/Anatoliy2001/calculatorWhithTests)/workflows/CI/badge.svg)(https://github.com/your-username/your-repository/actions)
+[![CI](https://github.com/Anatoliy2001/calculatorWhithTests/workflows/CI/badge.svg)](https://github.com/Anatoliy2001/calculatorWhithTests/actions)
+
 
 Coverage report: 99%Show/hide keyboard shortcuts
 filter...
