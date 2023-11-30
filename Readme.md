@@ -2,7 +2,6 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Anatoliy2001_calculatorWhithTests&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Anatoliy2001_calculatorWhithTests)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?projectAnatoliy2001_calculatorWhithTests&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Anatoliy2001_calculatorWhithTests)
 
-[![CI](https://github.com/Anatoliy2001/calculatorWhithTests/workflows/CI/badge.svg)](https://github.com/Anatoliy2001/calculatorWhithTests/actions)
 
 Coverage report: 99%Show/hide keyboard shortcuts
 filter...
