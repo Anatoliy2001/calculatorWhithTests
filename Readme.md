@@ -1,5 +1,6 @@
 ![CI/CD GitHub Actions](https://github.com/Anatoliy2001/calculatorWhithTests/actions/workflows/python-app.yml)
-![Quality Gate](https://sonarcloud.io/dashboard?id=Anatoliy2001_calculatorWhithTests)![Bugs](https://sonarcloud.io/summary/new_code?id=Anatoliy2001_calculatorWhithTests)
+![Quality Gate](https://sonarcloud.io/dashboard?id=Anatoliy2001_calculatorWhithTests)
+![Bugs](https://sonarcloud.io/summary/new_code?id=Anatoliy2001_calculatorWhithTests)
 ![Code smells](https://sonarcloud.io/dashboard?id=Anatoliy2001_calculatorWhithTests)
 
 Coverage report: 99%Show/hide keyboard shortcuts
