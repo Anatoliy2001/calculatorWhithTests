@@ -1,7 +1,6 @@
-[![CI/CD GitHub Actions](https://github.com/Anatoliy2001/calculatorWhithTests/actions/workflows/test-action.yml/badge.svg)](https://github.com/Anatoliy2001/calculatorWhithTests/actions/workflows/test-action.yml)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Anatoliy2001_calculatorWhithTests&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Anatoliy2001_calculatorWhithTests)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?projectAnatoliy2001_calculatorWhithTests&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Anatoliy2001_calculatorWhithTests)
-
+![CI/CD GitHub Actions](https://github.com/Anatoliy2001/calculatorWhithTests/actions/workflows/python-app.yml)
+![Quality Gate](https://sonarcloud.io/dashboard?id=Anatoliy2001_calculatorWhithTests)![Bugs](https://sonarcloud.io/summary/new_code?id=Anatoliy2001_calculatorWhithTests)
+![Code smells](https://sonarcloud.io/dashboard?id=Anatoliy2001_calculatorWhithTests)
 
 Coverage report: 99%Show/hide keyboard shortcuts
 filter...
