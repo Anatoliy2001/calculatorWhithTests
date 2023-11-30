@@ -1,6 +1,5 @@
 [![CI](https://github.com/Anatoliy2001/calculatorWhithTests/workflows/CI/badge.svg)](https://github.com/Anatoliy2001/calculatorWhithTests/actions)
 
-
 Coverage report: 99%Show/hide keyboard shortcuts
 filter...
 coverage.py v6.5.0, created at 2023-11-29 15:48 +0300
